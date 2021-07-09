@@ -12,7 +12,7 @@ var kNonActiveTabStyle = GoogleFonts.roboto(
 
 var kActiveTabStyle = GoogleFonts.roboto(
   textStyle: TextStyle(
-    fontSize: 16.0,
+    fontSize: 11.0,
     color: kBlack,
     fontWeight: FontWeight.bold,
   ),
@@ -20,7 +20,7 @@ var kActiveTabStyle = GoogleFonts.roboto(
 
 var kCategoryTitle = GoogleFonts.roboto(
   textStyle: TextStyle(
-    fontSize: 14.0,
+    fontSize: 9.0,
     color: kGrey2,
     fontWeight: FontWeight.bold,
   ),
@@ -28,14 +28,14 @@ var kCategoryTitle = GoogleFonts.roboto(
 
 var kDetailContent = GoogleFonts.roboto(
   textStyle: TextStyle(
-    fontSize: 14.0,
+    fontSize: 9.0,
     color: kGrey2,
   ),
 );
 
 var kTitleCard = GoogleFonts.roboto(
   textStyle: TextStyle(
-    fontSize: 18.0,
+    fontSize: 13.0,
     color: kBlack,
     fontWeight: FontWeight.bold,
   ),
@@ -43,6 +43,6 @@ var kTitleCard = GoogleFonts.roboto(
 
 var descriptionStyle = GoogleFonts.roboto(
     textStyle: TextStyle(
-  fontSize: 15.0,
+  fontSize: 10.0,
   height: 2.0,
 ));
